@@ -5,9 +5,6 @@
   font-family: sans-serif;
   scroll-behavior: smooth;
 }
-header img{
-margin-left: ;
-}
 header h2{
   color: #000;
 }
@@ -221,7 +218,6 @@ button {
   margin: 40px 0;
 }
 #About .content .AboutBx{
-  background: ;
   padding: 50px 20px;
   display: flex;
   justify-content: center;
