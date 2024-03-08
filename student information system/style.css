@@ -348,6 +348,7 @@ color: #000;
 background: #fff;
 margin-right: 15px;
 cursor: pointer;
+margin-top: 10%;
 }
 
 hr{
@@ -385,7 +386,6 @@ animation: moving 2s linear infinite;
 
 @keyframes moving{
 0%{
-
   left: -20px;
 }
 100%{
